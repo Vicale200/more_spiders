@@ -1,0 +1,7 @@
+{ 
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-spiders", 
+  "promos": { 
+    "1.19.4-latest": "2.0.beta", 
+    "1.19.4-recommended": "2.0.beta"
+  } 
+}
